@@ -208,7 +208,18 @@ This dataset and analysis framework can support:
 - Sentiment analysis on translated text may not capture all nuances
 - Political orientation labels are approximate and may not reflect all aspects
 - Dataset coverage may vary across languages and regions
-- Some rare languages may have limited representation
+- Some languages might have limited representation. The dataset includes the following language distribution:
+  - English (en): 58,184 articles
+  - Spanish (es): 22,557 articles
+  - Portuguese (pt): 12,072 articles
+  - Turkish (tr): 3,086 articles
+  - Italian (it): 2,138 articles
+  - French (fr): 1,663 articles
+  - Ukrainian (uk): 850 articles
+  - Russian (ru): 819 articles
+  - Dutch (nl): 804 articles
+  - German (de): 766 articles
+  - Polish (pl): 158 articles
 
 ## 🤝 Contributing
 
@@ -226,6 +237,7 @@ This project is open source. Please check the LICENSE file for details.
 ## 👥 Authors
 
 - **Amir Freer Valdez** - Primary researcher and developer
+- - **Vrynsiaa** - Contributor and co-developer
 
 ## 📧 Contact
 
@@ -237,18 +249,6 @@ For questions, suggestions, or collaborations, please open an issue in this repo
 - Open-source NLP community for tools and models
 - Contributors to the dataset and analysis
 
-## 📚 Citation
-
-If you use this dataset or methodology in your research, please cite:
-
-```bibtex
-@misc{valdez2025ai_regulation_discourse,
-  author = {Valdez, Amir Freer},
-  title = {AI Regulation Discourse in News: A Longitudinal Study Post-ChatGPT (2020-2025)},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/amirzon10/AI-Regulation-Discourse-in-News-A-Longitudinal-Study-Post-ChatGPT-2020-2025-V2}
-}
 ```
 
 ---
